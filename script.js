@@ -10,8 +10,8 @@ let val={1:'',2:'',3:'',
 let finish='';
 
 //sounds
-const sound = new Audio("./sound/swish.m4a");
-const soundwin = new Audio("./sound/cash.mp3");
+const sound = new Audio("./swish.m4a");
+const soundwin = new Audio("./cash.mp3");
 
 // for checking button click
 for(let i=0;i<box.length;i++){
