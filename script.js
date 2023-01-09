@@ -26,14 +26,14 @@ function play(){
         sound.play();
         if(j%2==0){
             let img=document.createElement('img');
-            img.src = "./images/x.png";
+            img.src = "./x.png";
             let place = document.getElementById(this.id);
             place.appendChild(img);
             val[this.id]="X";
             checkvalue(this.id)
         }else{  
             let img=document.createElement('img');
-            img.src = "./images/o.jfif";
+            img.src = "./o.jfif";
             let place = document.getElementById(this.id);
             place.appendChild(img);
             val[this.id]='O'
