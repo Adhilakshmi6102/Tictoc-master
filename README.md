@@ -1,1 +1,3 @@
-# Tictoc-master
+# tictoc
+simple tictoc game with sounds...
+Created by AdhiLakshmi
